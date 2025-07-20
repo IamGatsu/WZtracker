@@ -28,3 +28,8 @@ Feel free to report any Bugs you may encounter or suggestions for new Ideas.
 NOTE!
 - Overlay only Classic is available to use for now
 - .NET Framework 4.8 atleast needs to be installed
+
+Below you can find a Viruscheck, which for some Reason seem to appear mailicious for 5 Antiviruses out of 71s.
+this is most likely to the AI thats beeing used to anaylize the Screenshot for Number patterns, and the updater thats included for 
+Program updates.
+Under behavior you can exactly see whats going on, and that there is nothing sus going actually going on.

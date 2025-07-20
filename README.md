@@ -15,6 +15,7 @@ Now you will be able to select the desired Location where your SR Points are sho
 After press the Screenshot button or preferably a set Hotkey to create a Screenshot and make sure you get no Error,
 and your current SR on the Dashboard is beeing changed accordengly.
 Heres a example showing you in red Square where to select your Screen position:
+
 <img width="335" height="511" alt="Screengrab" src="https://github.com/user-attachments/assets/9bd3f270-d02a-4029-8a09-c5a338acaaaa" />
 
 

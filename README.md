@@ -9,6 +9,7 @@ Installation:
 2. Right Click to Send a Shortcut of wztracker.exe to your Desktop
 
 Usage:
+
 First time starting, while beeing inside your Warzone Ranked Lobby you will need to click on Grab Screenposition.
 Now you will be able to select the desired Location where your SR Points are shown by drawing the Outline with holding left Mousebutton.
 After press the Screenshot button or preferably a set Hotkey to create a Screenshot and make sure you get no Error,

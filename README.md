@@ -1,4 +1,5 @@
-<img width="599" height="546" alt="Screenshot" src="https://github.com/user-attachments/assets/eb63f918-701a-43af-9c4b-78e1c1947baa" />
+<img width="599" height="550" alt="Screenshot_1 0 1" src="https://github.com/user-attachments/assets/24bf5c6b-bc9a-4dc8-b8ad-c9a10e2e0271" />
+
 
 WZTracker
 Made for Content Creator/Streamer to ease the change of their current Rank and SR Points,

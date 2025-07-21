@@ -27,7 +27,9 @@ Folder where you extracted your Files to before.
 Feel free to report any Bugs you may encounter or suggestions for new Ideas.
 
 NOTE!
-- Overlay only Classic is available to use for now
+- Adjust your Browser source in OBS accordingly to the correct Width/Height,
+of your desired Overlay.
+- Activision ID must be set if you exceed 10000SR to check for your T250 Rank.
 - .NET Framework 4.8 atleast needs to be installed
 
 Below you can find a Viruscheck, which for some Reason seem to appear mailicious for 5 Antiviruses out of 71s.

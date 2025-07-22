@@ -1,4 +1,5 @@
-<img width="599" height="550" alt="Screenshot_1 0 1" src="https://github.com/user-attachments/assets/24bf5c6b-bc9a-4dc8-b8ad-c9a10e2e0271" />
+<img width="595" height="542" alt="Screenshot_1 2 0" src="https://github.com/user-attachments/assets/ab1a11b0-6bb9-4158-aa43-38a0962129d8" />
+
 
 
 WZTracker

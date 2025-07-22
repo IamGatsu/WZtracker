@@ -33,8 +33,8 @@ of your desired Overlay.
 - Activision ID must be set if you exceed 10000SR to check for your T250 Rank.
 - .NET Framework 4.8 atleast needs to be installed
 
-Below you can find a Viruscheck, which for some Reason seem to appear mailicious for 5 Antiviruses out of 71s.
+Below you can find a Viruscheck, which for some Reason seem to appear mailicious for 5 Antiviruses out of 70s.
 this is most likely to the AI thats beeing used to anaylize the Screenshot for Number patterns, and the updater thats included for 
 Program updates.
 Under behavior you can exactly see whats going on, and that there is nothing sus actually going on.
-https://www.virustotal.com/gui/file/b23e66650c5e87e75f5e3a62b1d5f2f28c06098bc726647afc2f6f4fe99c426c/behavior
+https://www.virustotal.com/gui/file/223393824d7bb01ccb84978b96b683ce2de72f04a6120dc12072fc286d1479ad?nocache=1

@@ -7,7 +7,7 @@ Made for Content Creator/Streamer to ease the change of their current Rank and S
 for the implentation in OBS Studio.
 
 Installation:
-1. Unzip to the ZIP to your desired Location
+1. Unzip the ZIP to your desired Location
 2. Right Click to Send a Shortcut of wztracker.exe to your Desktop
 
 Usage:
